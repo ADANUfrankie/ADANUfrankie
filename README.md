@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ADANUfrankie
-- 👀 I’m interested in ... Python for data analysis 
+- 👀 I’m interested in ... Python for data science 
 - 🌱 I’m currently learning ... Data science  
 - 💞️ I’m looking to collaborate on ... Projects  
 - 📫 How to reach me ... adanuogbe@yahoo.com
