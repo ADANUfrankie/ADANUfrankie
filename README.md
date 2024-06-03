@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADANUfrankie
 - 👀 I’m interested in ... Python for data science 
-- 🌱 I’m currently learning ... Data science  
+- 🌱 I’m currently learning ... Data science / DevOps / ML
 - 💞️ I’m looking to collaborate on ... Projects  
 - 📫 How to reach me ... adanuogbe@yahoo.com
 
